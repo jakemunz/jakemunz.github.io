@@ -82,15 +82,11 @@ input[type='checkbox'] {
   display: block;
 
   font-weight: bold;
- /* font-family: monospace; */
   font-size: 1.2rem;
   text-transform: uppercase;
   text-align: center;
 
   padding: 1rem;
-
- /* color: #A77B0E;
-  background: #FAE042;*/
 
   cursor: pointer;
 
@@ -99,7 +95,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: #c3002f;
 }
 
 .lbl-toggle::before {
