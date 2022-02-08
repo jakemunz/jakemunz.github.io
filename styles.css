@@ -138,3 +138,29 @@ input[type='checkbox'] {
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
 }
+
+.btn {
+  background: #;
+  background-image: -webkit-linear-gradient(top, #, #);
+  background-image: -moz-linear-gradient(top, #, #);
+  background-image: -ms-linear-gradient(top, #, #);
+  background-image: -o-linear-gradient(top, #, #);
+  background-image: linear-gradient(to bottom, #, #);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  text-shadow: 1px 1px 3px #666666;
+  padding: 10px 20px 10px 20px;
+  border: solid black 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #c3002f;
+  background-image: -webkit-linear-gradient(top, #c3002f);
+  background-image: -moz-linear-gradient(top, #c3002f);
+  background-image: -ms-linear-gradient(top, #c3002f);
+  background-image: -o-linear-gradient(top, #c3002f);
+  background-image: linear-gradient(to bottom, #c3002f);
+  text-decoration: none;
+}
