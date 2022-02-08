@@ -154,8 +154,8 @@ input[type='checkbox'] {
   border: solid black 2px;
   font-family: 'Quicksand', sans-serif;
   font-size: 12px;
-  color: black;
   text-decoration: none;
+  color: black;
 }
 
 .btn:hover {
@@ -167,6 +167,7 @@ input[type='checkbox'] {
   background-image: linear-gradient(to bottom, #c3002f);
   font-family: 'Quicksand', sans-serif;
   font-size: 12px;
-  color: white;
-  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style: none;
+  text-decoration-color: white;
 }
